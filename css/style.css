@@ -1,0 +1,16 @@
+
+h1{
+    color: rgb(8, 8, 107);
+    font-size: xx-large ;
+}
+
+pre{
+    color: black;
+    width: 20px;
+    height: 40px;
+}
+
+body{
+    background-image: url("shekil-2.png")
+}
+
